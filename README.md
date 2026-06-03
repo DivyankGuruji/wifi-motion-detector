@@ -1,3 +1,4 @@
+# Wi-Fi Motion Detector
 The main aim of this project is to detect any movement and presence of any object between the WiFi transmitter and receiver.
 
 If there is something present between the TX and RX then the RSSI (Received Signal Strength Indicator) value changes, which shows that there is some movement or someones presence.
